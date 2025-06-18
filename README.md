@@ -18,4 +18,4 @@ Hi there, I’m Sakshi 👋
 - Data visualization notebooks
 
 📫 Let’s connect:  
-[LinkedIn](https://www.linkedin.com/in/sakshi-shinde-a918651) | [GitHub](https://github.com/sakshi250904)
+[LinkedIn](https://www.linkedin.com/in/sakshishinde25) | [GitHub](https://github.com/sakshi250904)
