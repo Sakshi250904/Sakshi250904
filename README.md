@@ -3,20 +3,7 @@ Hi there, I’m Sakshi 👋
 🎓 Final-year Computer Engineering Student at MCT’s Rajiv Gandhi Institute of Technology  
 💻 Passionate about Front-End Development, Data Analysis & Machine Learning  
 ☁️ Currently learning Cloud Technologies and AWS  
-🚀 Open to internships in Software Development, Data Roles & Front-End Engineering
-
-🛠️ Tech Stack:
-- Languages: JavaScript, C++, Python
-- Web: HTML, CSS, React
-- Databases: MySQL, MongoDB
-- Data Science & Analytics: Data Analytics, ML, Deep learning
-- Tools: Git, GitHub, VS Code, Jupyter Notebook
-
-📈 Currently Working On:
-- Building React Project
-- AWS Cloud Certification Prep
-- Data visualization notebooks
-
+🚀 Open to work in Software Development, Data Roles & Front-End Engineering
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sakshishinde25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshivshinde25@gmail.com) 
